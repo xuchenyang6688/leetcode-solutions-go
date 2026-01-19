@@ -1,9 +1,9 @@
 🚀My Go learning journey begins here!
 
-Install Go
-Install Go Extention in VS code
-Command Palette (Ctrl+Shift+P or Cmd+Shift+P) and typing "Go: Install/Update Tools", install gopls, glv and all.
-Command Palette (Ctrl+Shift+P or Cmd+Shift+P) and typeing "Preferences: Open User Settings(JSON)"
+1. Install Go
+2. Install Go Extention in VS code
+3. Command Palette (Ctrl+Shift+P or Cmd+Shift+P) and typing "Go: Install/Update Tools", install gopls, glv and all.
+4. Command Palette (Ctrl+Shift+P or Cmd+Shift+P) and typeing "Preferences: Open User Settings(JSON)"
 ```
 {
     "go.useLanguageServer": true,
